@@ -23,8 +23,10 @@
 <p align="center">
   <img src="./Readme%20Images/Screenshot.png" alt="News App Screenshot 1" width="250" style="margin-right: 40px" />
   <img src="./Readme%20Images/Screenshot1.png" alt="News App Screenshot 1" width="250" />
-  <img src="./Readme%20Images/Screenshot2.png" alt="News App Screenshot 1" width="250" style="margin-right: 40px;margin-top: 40px"/>
+  <img src="./Readme%20Images/Screenshot2.png" alt="News App Screenshot 1" width="250" style="margin-right: 40px;margin-top: 20px"/>
   <img src="./Readme%20Images/Screenshot3.png" alt="News App Screenshot 1" width="250" />
+  <img src="./Readme%20Images/Screenshot4.png" alt="News App Screenshot 1" width="250"style="margin-right: 40px;margin-top: 20px"  />
+  <img src="./Readme%20Images/Screenshot5.png" alt="News App Screenshot 1" width="250" />
 </p>
 
 ## Folder Structure
